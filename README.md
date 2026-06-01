@@ -7,7 +7,11 @@ Text: 무료 수면 요금제
 
 <aside>
 💡
-
+    
+- **게임 플레이**
+  
+[Itch.io](https://minjun-ludigames.itch.io/free-tier-sleep)
+    
 - **Github 레포지토리**
 
 [GitHub - HAEDAL-Hackathon-LastDance/Free-Tier-Sleep](https://github.com/HAEDAL-Hackathon-LastDance/Free-Tier-Sleep)
@@ -86,31 +90,41 @@ Text: 무료 수면 요금제
 
 [시작화면]
 
-![image.png](image.png)
+<img width="1922" height="1082" alt="image" src="https://github.com/user-attachments/assets/f008c523-4a74-418d-9f64-1ebd756bb3d7" />
+
 
 [인트로]
 
-![image.png](image%201.png)
+<img width="1922" height="1082" alt="image" src="https://github.com/user-attachments/assets/8572df87-ec6e-4ef2-849c-cc82baf6f350" />
 
-![image.png](image%202.png)
+<img width="1922" height="1082" alt="image" src="https://github.com/user-attachments/assets/1d39b682-5caf-4f97-8de1-dee5e18a28bd" />
+
+<img width="1932" height="1082" alt="image" src="https://github.com/user-attachments/assets/3288b89e-2e57-49a1-8d09-613d69e99d5a" />
+
 
 [게임1]
 
-![image.png](image%203.png)
+<img width="1922" height="1082" alt="image" src="https://github.com/user-attachments/assets/00b9d9e9-0422-4792-95d9-ccb0115ca294" />
+
 
 [전환씬]
 
-![image.png](image%204.png)
+<img width="1922" height="1082" alt="image" src="https://github.com/user-attachments/assets/a8ffd31b-0233-4a26-8a52-cc452642dcab" />
+
+<img width="1922" height="1036" alt="image" src="https://github.com/user-attachments/assets/5cb24fda-3fe2-4047-ae6a-190640ab6362" />
 
 [게임2]
 
-![image.png](image%205.png)
+<img width="1922" height="1082" alt="image" src="https://github.com/user-attachments/assets/0df9320b-513b-485e-8eed-9611ae5f1b12" />
+
 
 [엔딩]
 
-![image.png](image%206.png)
+<img width="1922" height="1082" alt="image" src="https://github.com/user-attachments/assets/c8c9aa54-3c94-4d91-888d-a15de2a38fbc" />
 
-![image.png](image%207.png)
+
+<img width="1922" height="1082" alt="image" src="https://github.com/user-attachments/assets/23c59935-a774-4c11-b6df-589237ba52a5" />
+
 
 ## **🙋‍♂️ 팀원 및 역할 (Team Roles)**
 
@@ -118,7 +132,7 @@ Text: 무료 수면 요금제
     - 2D 수직 플랫포머 핵심 물리 엔진 및 플레이어 컨트롤러(PlayerController) 구현
     - 청크 기반 절차적 맵 생성 로직(LevelGenerator) 및 오브젝트 풀링 최적화
     - 시한부 발판 기믹(PlatformTimer) 및 즉사 판정 글리치 파도(RisingDataFlood) 구현
-- **김태희 (taehee)**: 클라이언트 개발 및 연출 [Phase 1]
+- **김태희 (taehui)**: 클라이언트 개발 및 연출 [Phase 1]
     - 인트로 씬 컨트롤러 및 타이핑 이펙트, 케이블 데이터 흐름 연출
     - 팝업 광고 스폰 매니저(AdPopupManager) 기믹 개발
     - 절차적 오디오(ProceduralAudioHelper) 연출 구현
